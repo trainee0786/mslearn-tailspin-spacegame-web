@@ -31,7 +31,7 @@ steps:
   displayName: 'compile Sass Assets'
 
 - task: gulp@1
-  displayname: 'Run gulp tasks'
+  displayName: 'Run gulp tasks'
 
 - script: 'echo "$(Build.DefinitionName),$(Build.Buildid),$(Build.BuildNumber)"
 > buildinfo.txt'
