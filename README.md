@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/trainee0786/Space%20Game%20-web/_apis/build/status/trainee0786.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/trainee0786/Space%20Game%20-web/_build/latest?definitionId=1&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
